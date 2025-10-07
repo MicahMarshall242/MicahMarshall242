@@ -2,7 +2,7 @@
 I'm a developer, designer, and builder. I'm a second year computer science student passionate about writing clean and effective programs, games, and apps. I am a fanatic for clean APIs and cohesive subsystems, with a desire to write code that **feels** alive.
 
 ##  🔨 Skills
-- **[IDE's]** Intellij IDEA, PyCharm, VsCode, DataGrip
+- **[IDEs]** Intellij IDEA, PyCharm, VsCode, DataGrip
 - **[Languages]** Python, Java, Kotlin, some SQL, some CSS
 - **[FrameWorks]** JavaFX, Korge, LWJGL, OpenGL (via LWJGL) Logic Pro (audio)
   
