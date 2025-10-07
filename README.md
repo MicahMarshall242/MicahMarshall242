@@ -3,7 +3,7 @@ I'm a developer, designer, and builder. I'm a second-year computer science stude
 
 ##  🔨 Skills
 - **[IDEs]** IntelliJ IDEA, PyCharm, VSCode, DataGrip
-- **[Languages]** Python, Java, Kotlin, some SQL, some CSS
+- **[Languages]** Python, Java, Kotlin, SQL, some CSS
 - **[FrameWorks]** JavaFX, Korge, LWJGL, OpenGL (via LWJGL) Logic Pro (audio)
   
 ## ♟ Hobbies
